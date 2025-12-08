@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "a9325b63b3e4994b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d81b1aa42557394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b8a8017b71b17e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISCO iOS/Network Security's Packet Tracer Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Security's Packet Tracer Guide"
+            }
+          },
+          {
+            "id": "091236859626ffef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISCO iOS/Untitled 2/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "29b09822c562087e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSCC/Capstone/Group Document.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Group Document"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44912d944ec3d8b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e366e5ff121fffe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "992aa6bf446e2d87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "91954005a28fcef3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba9861c7fa1d604b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc7b8a49f10d13bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f47f1d807249e5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09efecd8d301209d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e8ed6acb30ebd20b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6a5f896f0b9e2e36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f87a79d6cbbd7c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "091236859626ffef",
+  "lastOpenFiles": [
+    "CISCO iOS/Untitled/Untitled 1.md",
+    "CISCO iOS/Untitled 2/Untitled.md",
+    "CISCO iOS/Untitled 2",
+    "CISCO iOS/Untitled/Untitled.md",
+    "CISCO iOS/Untitled 1/Untitled.md",
+    "CISCO iOS/Untitled 1/Untitled 1.md",
+    "CISCO iOS/Network Security's Packet Tracer Guide.md",
+    "CISCO iOS/How to Connect to a Switch via COM port sans PuTTY.md",
+    "CISCO iOS/CCNA Security 2.0 Lab Manual.pdf",
+    "CISCO iOS/Untitled 1",
+    "CISCO iOS/Untitled",
+    "CISCO iOS/Nov. 1st - Network Monitoring.md",
+    "CISCO iOS/Cisco_Commands_Cheat_Sheet.pdf",
+    "Dalhousui.md",
+    "Sample Report.md",
+    "NSCC/Penetration Testing/March 24th.md",
+    "Pasted image 20250324105629.png",
+    "Pasted image 20250324105606.png",
+    "Pasted image 20250324105558.png",
+    "Pasted image 20250324105543.png",
+    "Pasted image 20250324105529.png",
+    "Pasted image 20250324105505.png",
+    "Pasted image 20250324105107.png",
+    "Pasted image 20250324104857.png",
+    "Pasted image 20250324104506.png",
+    "Pasted image 20250324104408.png",
+    "NSCC/Attack Vectors/THE Penetration Test/```Python ###Python Flask Server###.py",
+    "NSCC/Attack Vectors/THE Penetration Test/Flask Server/```Python ###Python Flask Server###.py",
+    "NSCC/Attack Vectors/THE Penetration Test/Flask Server",
+    "NSCC/Attack Vectors/THE Penetration Test/New folder",
+    "NSCC/Penetration Testing/Assignments/Assignment 3 - Spoofing/Spoofing.md",
+    "NSCC/Penetration Testing/What is BGP hijacking  Cloudflare.md",
+    "NSCC/Historical/Fall Semester 2024/Evolving Technologies/Discovery/DNSRecon.md",
+    "NSCC/Historical/Fall Semester 2023/Data Security/MySQL Reference Manual/MySQL Manual.md",
+    "NSCC/Historical/Fall Semester 2024/Evolving Technologies/Lectures/Sept. 9th.md",
+    "NSCC/Extra Lectures/Snowden Talk.md",
+    "NSCC/Capstone/March 20th Meeting's Notes.md",
+    "NSCC/Attack Vectors/Attack Vector- Memory Forensics Assignment.docx",
+    "NSCC/Capstone/Milestone Report/AI Guide.md",
+    "NSCC/Capstone/January 7th.md",
+    "Report Example 2.md",
+    "Example Report 3.md",
+    "Report Example.md",
+    "NSCC/Capstone/Group Document.md",
+    "NSCC/Incident Handling and Response/March 20th.md",
+    "NSCC/Incident Handling and Response/March 18th.md"
+  ]
+}

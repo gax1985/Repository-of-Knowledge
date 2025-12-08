@@ -1,0 +1,126 @@
+# Anki-Compatible Flashcard Deck (Part 1)
+
+## Card 1
+What is the title of the course discussed in the provided content? | Cyber Security in IT: Postcards from the Front
+
+## Card 2
+Who computerized businesses around the province in 1982? | The individual who computerized businesses around the province in 1982 is not explicitly mentioned in the provided content.
+
+## Card 3
+Name the president of the High Tech Crime Investigation Association. | The president of the High Tech Crime Investigation Association is not explicitly mentioned in the provided content.
+
+## Card 4
+Which country is not allowed to join the High Tech Crime Investigation Association, and why? | Mexico is not allowed to join due to ease of becoming a police officer and the resulting corruption.
+
+## Card 5
+Name three countries actively involved in cyber warfare against "the other side." | Russia, China, North Korea, and Iran.
+
+## Card 6
+What is the significance of an APT Number? | APT Number is assigned to new adversaries, resembling APT28 (GRU - Russian Military Division-Cyber).
+
+## Card 7
+What is the primary focus of APT 28 (aka GRU Unit 26165)? | APT 28 specializes in state-sponsored cyber attacks, decryption, and targets government, military, and security organizations.
+
+## Card 8
+Which Chinese cyber unit targets US companies for confidential business information? | Unit 61398 of the People's Liberation Army of China's Advanced Persistent Threat Unit targets US companies.
+
+## Card 9
+What is the motivation behind Beaureau 121 (North Korea)? | Beaureau 121 conducts espionage and cyber financial crime, targeting South Korea, Japan, and the US.
+
+## Card 10
+Name the hacktivist group based in Texas during the 1980s-1990s. | Cult of the Dead Cow.
+
+## Card 11
+What is the connection between WikiLeaks and the GRU? | WikiLeaks received financial help from the GRU to attain top-secret documents and had an agreement not to hack Russian sites.
+
+## Card 12
+Which group threatened online voting during an election, according to the content? | Anonymous threatened online voting during an election.
+
+## Card 13
+In which year did the First World Cyber War occur, and where was it fought? | The First World Cyber War occurred in 2007 and was fought in Estonia.
+
+## Card 14
+What are the three fronts discussed in the content regarding the cyber war? | The three fronts in the cyber war include critical infrastructure, the economy, and political institutions.
+
+## Card 15
+Who is Maria Butina, and what was her mission? | Maria Butina infiltrated the NRA with a mission to corrupt and influence high-level policy individuals and promote relations between right-wingers and Russia.
+
+## Card 16
+According to the content, what analogy is used to describe cybersecurity? | The Maginot Line analogy is used to describe cybersecurity, emphasizing the importance of focusing on people as the borders of the network.
+
+## Card 17
+What are the primary goals of Russia in cyber warfare, as mentioned in the content? | Russia's primary goals in cyber warfare are domination and control of vast resources.
+
+## Card 18
+Name three Russian cyber assets mentioned in the content. | Foreign Intelligence Service SVR, Main Intelligence Directorate (GRU), and FSB are mentioned as Russian cyber assets.
+
+## Card 19
+What is the offensive component of the formative assignment mentioned in the content? | The offensive component involves researching and finding information about classmates on the internet.
+
+## Card 20
+According to the content, what is emphasized as the best defense in cybersecurity? | The best defense in cybersecurity is improved education, workforce growth, and data analytics.
+
+
+# Anki-Compatible Flashcard Deck (Part 2)
+
+## Card 21
+What is the motivation behind Unit 78020 (China)? | Unit 78020 targets companies involved in Satellite and Communications in the US, Europe, and Japan, also known as "Putter Panda."
+
+## Card 22
+Name the Iranian hacktivist group that targeted the US government and defense sector. | Charming Kitten (APT 35) is based in Iran and targets the US government/defense sector, Saudi Arabia, Israel, Iraq, UK, and individuals linked to the 2020 presidential election in the US.
+
+## Card 23
+According to the content, which hacktivist group was based out of Texas in the 1980s-1990s? | Cult of the Dead Cow was a hacktivist group based out of Texas in the 1980s-1990s.
+
+## Card 24
+What is the connection between WikiLeaks and the GRU? | WikiLeaks received financial help from the GRU to attain top-secret documents and had an agreement not to hack Russian sites.
+
+## Card 25
+Which group threatened online voting during an election, according to the content? | Anonymous threatened online voting during an election.
+
+## Card 26
+In which year did the First World Cyber War occur, and where was it fought? | The First World Cyber War occurred in 2007 and was fought in Estonia.
+
+## Card 27
+What are the three fronts discussed in the content regarding the cyber war? | The three fronts in the cyber war include critical infrastructure, the economy, and political institutions.
+
+## Card 28
+Who is Maria Butina, and what was her mission? | Maria Butina infiltrated the NRA with a mission to corrupt and influence high-level policy individuals and promote relations between right-wingers and Russia.
+
+## Card 29
+According to the content, what analogy is used to describe cybersecurity? | The Maginot Line analogy is used to describe cybersecurity, emphasizing the importance of focusing on people as the borders of the network.
+
+## Card 30
+What are the primary goals of Russia in cyber warfare, as mentioned in the content? | Russia's primary goals in cyber warfare are domination and control of vast resources.
+
+## Card 31
+Name three Russian cyber assets mentioned in the content. | Foreign Intelligence Service SVR, Main Intelligence Directorate (GRU), and FSB are mentioned as Russian cyber assets.
+
+## Card 32
+What is the offensive component of the formative assignment mentioned in the content? | The offensive component involves researching and finding information about classmates on the internet.
+
+## Card 33
+According to the content, what is emphasized as the best defense in cybersecurity? | The best defense in cybersecurity is improved education, workforce growth, and data analytics.
+
+## Card 34
+What is the motivation behind Unit 78020 (China)? | Unit 78020 targets companies involved in Satellite and Communications in the US, Europe, and Japan, also known as "Putter Panda."
+
+## Card 35
+Name the Iranian hacktivist group that targeted the US government and defense sector. | Charming Kitten (APT 35) is based in Iran and targets the US government/defense sector, Saudi Arabia, Israel, Iraq, UK, and individuals linked to the 2020 presidential election in the US.
+
+## Card 36
+According to the content, which hacktivist group was based out of Texas in the 1980s-1990s? | Cult of the Dead Cow was a hacktivist group based out of Texas in the 1980s-1990s.
+
+## Card 37
+What is the connection between WikiLeaks and the GRU? | WikiLeaks received financial help from the GRU to attain top-secret documents and had an agreement not to hack Russian sites.
+
+## Card 38
+Which group threatened online voting during an election, according to the content? | Anonymous threatened online voting during an election.
+
+## Card 39
+In which year did the First World Cyber War occur, and where was it fought? | The First World Cyber War occurred in 2007 and was fought in Estonia.
+
+## Card 40
+What are the three fronts discussed in the content regarding the cyber war? | The three fronts in the cyber war include critical infrastructure, the economy, and political institutions.
+
+

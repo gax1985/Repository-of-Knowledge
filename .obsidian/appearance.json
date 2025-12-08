@@ -1,0 +1,14 @@
+{
+  "accentColor": "#f3b58c",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "DroidSansM Nerd Font Propo",
+  "baseFontSize": 14,
+  "textFontFamily": "DroidSansM Nerd Font Propo",
+  "monospaceFontFamily": "DroidSansM Nerd Font Mono",
+  "baseFontSizeAction": true,
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "Extra-Settings"
+  ],
+  "translucency": false
+}
